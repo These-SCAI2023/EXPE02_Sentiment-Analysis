@@ -1,12 +1,25 @@
+import glob
 import spacy
 import json
 from transformers import pipeline
+from pathlib import Path
+import os
 
 def lire_fichier (chemin):
     f = open(chemin , encoding = 'utf−8')
     chaine = f.read ()
     f.close ()
     return chaine
+
+def filename_output(path):
+    filename = path.split('/')[-1] + "_sa.json"
+    return filename
+
+def SA_repo_creat(chemin):
+    # Crée un objet Path pour le nouveau dossier
+    dossier = Path(f"{chemin}/SA")
+    # Crée le dossier
+    dossier.mkdir(exist_ok=True)  # exist_ok=True évite l'erreur si le dossier existe
 
 def stocker(chemin, contenu):
     w = open(chemin, "w")
@@ -38,6 +51,38 @@ def analise_sent(phrase):
 
     # print(result)
     return result
+
+def traiter_dossier(base_path):
+    """
+    Traite tous les sous-dossiers contenant des fichiers *court.txt* dans base_path
+    """
+    print("Base path:", base_path)
+    for folder in glob.glob(base_path):
+        print(folder)
+
+        SA_repo_creat(folder)
+        for txt_file in glob.glob(folder + "/*.txt"):
+            outputname = filename_output(txt_file)
+            sa_path = f"{folder}/SA/{outputname}"
+            # Vérifie si le fichier SA existe déjà
+            if os.path.exists(sa_path):
+                print(f"SA déjà calculé pour {txt_file}, passage au suivant.")
+                continue  # passe au fichier suivant
+
+            texte = lire_fichier(txt_file)
+            segments_txt = segmentation(texte)
+
+            segments = {}
+            for idx, seg in enumerate(segments_txt):
+                segments[f"segment {idx}"] = {
+                    "texte": seg,
+                    "analyse": analise_sent(seg)
+                }
+
+            print(segments)
+            stocker(f"{folder}/SA/{outputname}", segments)
+
+
 
 
 ## Tests pour la segmentation avec spaCy
