@@ -1,0 +1,727 @@
+{
+  "segment 0": {
+    "texte": "UNE YEILLEE.\nDepuis un nombre innombrable d'hivers,\nc'est dans la maison de Norine Duclos qu'ont\nlieu les plus egayantes veilles de notre vil-\nlage.",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.42052409052848816
+      },
+      {
+        "label": "4 stars",
+        "score": 0.19710126519203186
+      },
+      {
+        "label": "1 star",
+        "score": 0.16909554600715637
+      },
+      {
+        "label": "3 stars",
+        "score": 0.10759562253952026
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10568346083164215
+      }
+    ]
+  },
+  "segment 1": {
+    "texte": "Adonc, certain soir, comme j'entrais\nchez Norine, je la trouvai en train de precher\nses trois petiotes.\n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2556881010532379
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2385837435722351
+      },
+      {
+        "label": "1 star",
+        "score": 0.19933387637138367
+      },
+      {
+        "label": "4 stars",
+        "score": 0.16057828068733215
+      },
+      {
+        "label": "5 stars",
+        "score": 0.14581601321697235
+      }
+    ]
+  },
+  "segment 2": {
+    "texte": "- He MIandine, criait-elle, dpeche",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.4848586320877075
+      },
+      {
+        "label": "2 stars",
+        "score": 0.23027357459068298
+      },
+      {
+        "label": "3 stars",
+        "score": 0.12582243978977203
+      },
+      {
+        "label": "5 stars",
+        "score": 0.09606345742940903
+      },
+      {
+        "label": "4 stars",
+        "score": 0.06298190355300903
+      }
+    ]
+  },
+  "segment 3": {
+    "texte": "-toi\nde balayer la maison ;",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2709032893180847
+      },
+      {
+        "label": "3 stars",
+        "score": 0.244837686419487
+      },
+      {
+        "label": "2 stars",
+        "score": 0.17537173628807068
+      },
+      {
+        "label": "5 stars",
+        "score": 0.17292878031730652
+      },
+      {
+        "label": "1 star",
+        "score": 0.1359584480524063
+      }
+    ]
+  },
+  "segment 4": {
+    "texte": "plus vite que cal Sur-\ntout n'oublie pas le coin oi la femme de Jean-\nClaude a epluchc une pomme ce matin.",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.25805506110191345
+      },
+      {
+        "label": "1 star",
+        "score": 0.2508036196231842
+      },
+      {
+        "label": "3 stars",
+        "score": 0.21398001909255981
+      },
+      {
+        "label": "4 stars",
+        "score": 0.15052513778209686
+      },
+      {
+        "label": "5 stars",
+        "score": 0.12663617730140686
+      }
+    ]
+  },
+  "segment 5": {
+    "texte": "Toi,\nla Rose, prends mon couvet et emplis-le.",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.6837952136993408
+      },
+      {
+        "label": "4 stars",
+        "score": 0.21823011338710785
+      },
+      {
+        "label": "1 star",
+        "score": 0.039576563984155655
+      },
+      {
+        "label": "3 stars",
+        "score": 0.03681337460875511
+      },
+      {
+        "label": "2 stars",
+        "score": 0.02158477157354355
+      }
+    ]
+  },
+  "segment 6": {
+    "texte": "Ha-\nM1ON VILLAGE.\nbile, habile.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.4584182798862457
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2510087788105011
+      },
+      {
+        "label": "3 stars",
+        "score": 0.17260055243968964
+      },
+      {
+        "label": "4 stars",
+        "score": 0.07152312994003296
+      },
+      {
+        "label": "5 stars",
+        "score": 0.0464492104947567
+      }
+    ]
+  },
+  "segment 7": {
+    "texte": "Desiree Mlonte sur l'escabeau\net decroche une chandelle a la poutre;",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.5353274345397949
+      },
+      {
+        "label": "2 stars",
+        "score": 0.32878243923187256
+      },
+      {
+        "label": "3 stars",
+        "score": 0.11635345220565796
+      },
+      {
+        "label": "4 stars",
+        "score": 0.01531746331602335
+      },
+      {
+        "label": "5 stars",
+        "score": 0.00421925587579608
+      }
+    ]
+  },
+  "segment 8": {
+    "texte": "trouve\nle chandelier.",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.3148519694805145
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2388278692960739
+      },
+      {
+        "label": "3 stars",
+        "score": 0.22299426794052124
+      },
+      {
+        "label": "2 stars",
+        "score": 0.13072040677070618
+      },
+      {
+        "label": "1 star",
+        "score": 0.09260552376508713
+      }
+    ]
+  },
+  "segment 9": {
+    "texte": "Bonl",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.23990778625011444
+      },
+      {
+        "label": "4 stars",
+        "score": 0.23713617026805878
+      },
+      {
+        "label": "5 stars",
+        "score": 0.22434432804584503
+      },
+      {
+        "label": "2 stars",
+        "score": 0.16818954050540924
+      },
+      {
+        "label": "1 star",
+        "score": 0.1304221749305725
+      }
+    ]
+  },
+  "segment 10": {
+    "texte": "voil du cuivre qui terluit\ncomme le dos d'une citrouille.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.5878444910049438
+      },
+      {
+        "label": "2 stars",
+        "score": 0.32300248742103577
+      },
+      {
+        "label": "3 stars",
+        "score": 0.06966613233089447
+      },
+      {
+        "label": "4 stars",
+        "score": 0.011004730127751827
+      },
+      {
+        "label": "5 stars",
+        "score": 0.008482115343213081
+      }
+    ]
+  },
+  "segment 11": {
+    "texte": "Frotte, frotte;\nll... Faites excuse, Cellier, dit Norine, mais\ndes fillettes, ca ne s'avise de rien, il faut tout\nleur commander.\n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.4168816804885864
+      },
+      {
+        "label": "2 stars",
+        "score": 0.3221852481365204
+      },
+      {
+        "label": "3 stars",
+        "score": 0.15829697251319885
+      },
+      {
+        "label": "4 stars",
+        "score": 0.05292682349681854
+      },
+      {
+        "label": "5 stars",
+        "score": 0.049709271639585495
+      }
+    ]
+  },
+  "segment 12": {
+    "texte": "Quand on doit parler d'une menagere, en\nvoilh unel Elle passe, a bon droit, pour la\nplus regardante de Saint-Brunelle;",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2563267648220062
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2538928985595703
+      },
+      {
+        "label": "1 star",
+        "score": 0.22781364619731903
+      },
+      {
+        "label": "4 stars",
+        "score": 0.14495836198329926
+      },
+      {
+        "label": "5 stars",
+        "score": 0.11700836569070816
+      }
+    ]
+  },
+  "segment 13": {
+    "texte": "on se mi-\nrerait dans son armoire en noyer de meme\n-A-]\nque devant un miroir, et je vous avertis ques\nles couverts d'etain qui pendent  sa potiere\nbrillent comme du pur argent.\n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.31075164675712585
+      },
+      {
+        "label": "2 stars",
+        "score": 0.27005094289779663
+      },
+      {
+        "label": "3 stars",
+        "score": 0.17564329504966736
+      },
+      {
+        "label": "5 stars",
+        "score": 0.15241381525993347
+      },
+      {
+        "label": "4 stars",
+        "score": 0.09114033728837967
+      }
+    ]
+  },
+  "segment 14": {
+    "texte": "Il paratt difficile de rencontrer dans les pa-\nlais, savez-vous, trois brins de filles comme\nArmandine, la Rose et puis Desirde.",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.37013980746269226
+      },
+      {
+        "label": "2 stars",
+        "score": 0.3338521420955658
+      },
+      {
+        "label": "4 stars",
+        "score": 0.11827488988637924
+      },
+      {
+        "label": "1 star",
+        "score": 0.1166822537779808
+      },
+      {
+        "label": "5 stars",
+        "score": 0.06105078384280205
+      }
+    ]
+  },
+  "segment 15": {
+    "texte": "A reserve\n1.",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2599932849407196
+      },
+      {
+        "label": "2 stars",
+        "score": 0.22900019586086273
+      },
+      {
+        "label": "1 star",
+        "score": 0.20527081191539764
+      },
+      {
+        "label": "4 stars",
+        "score": 0.17788651585578918
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1278492510318756
+      }
+    ]
+  },
+  "segment 16": {
+    "texte": "Se dit pour depeche-toi.\n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2467363029718399
+      },
+      {
+        "label": "2 stars",
+        "score": 0.21970944106578827
+      },
+      {
+        "label": "1 star",
+        "score": 0.20263390243053436
+      },
+      {
+        "label": "4 stars",
+        "score": 0.19956333935260773
+      },
+      {
+        "label": "5 stars",
+        "score": 0.13135705888271332
+      }
+    ]
+  },
+  "segment 17": {
+    "texte": "1I1\n\n1MON VILLAG.\nde la Rose, qui me semble une miette trop\nretue pour une jeunesse de campagne, les pe-\ntiotcs de Norine sont capables sur beaucoup\nde points.\n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.4869077801704407
+      },
+      {
+        "label": "3 stars",
+        "score": 0.24876189231872559
+      },
+      {
+        "label": "1 star",
+        "score": 0.2165505439043045
+      },
+      {
+        "label": "4 stars",
+        "score": 0.03380286693572998
+      },
+      {
+        "label": "5 stars",
+        "score": 0.013976987451314926
+      }
+    ]
+  },
+  "segment 18": {
+    "texte": "Tandis que ses seurs mettent leur gloire \nregarder cliquoter lc feu', la Rose met sa\ngloire  se promener suivie d'un tas de ga-\nlants.\n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.24547645449638367
+      },
+      {
+        "label": "2 stars",
+        "score": 0.21727755665779114
+      },
+      {
+        "label": "1 star",
+        "score": 0.19075748324394226
+      },
+      {
+        "label": "5 stars",
+        "score": 0.17456969618797302
+      },
+      {
+        "label": "4 stars",
+        "score": 0.1719188094139099
+      }
+    ]
+  },
+  "segment 19": {
+    "texte": "Si mioche qu'elle ait etd, elle a toujours\npasse pour gargconniere;",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.6170931458473206
+      },
+      {
+        "label": "2 stars",
+        "score": 0.24473193287849426
+      },
+      {
+        "label": "3 stars",
+        "score": 0.08956814557313919
+      },
+      {
+        "label": "4 stars",
+        "score": 0.026764031499624252
+      },
+      {
+        "label": "5 stars",
+        "score": 0.02184274233877659
+      }
+    ]
+  },
+  "segment 20": {
+    "texte": "mais fut-ce l comme\nson oncle Jean-Claude, ce n'est pas la plus\nbete de chez nous.\nA la fin des fins, la maison s'emplit;",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.4300062656402588
+      },
+      {
+        "label": "3 stars",
+        "score": 0.3063560724258423
+      },
+      {
+        "label": "1 star",
+        "score": 0.19310137629508972
+      },
+      {
+        "label": "4 stars",
+        "score": 0.04892629757523537
+      },
+      {
+        "label": "5 stars",
+        "score": 0.021609947085380554
+      }
+    ]
+  },
+  "segment 21": {
+    "texte": "les\ncouscuses se placent le plus pres possible de la\nchandelle, les fileuses derriere les couseuses,\net les tricoteuses n'importe o.",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.23997394740581512
+      },
+      {
+        "label": "3 stars",
+        "score": 0.22057688236236572
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2163974642753601
+      },
+      {
+        "label": "4 stars",
+        "score": 0.21573372185230255
+      },
+      {
+        "label": "1 star",
+        "score": 0.10731794685125351
+      }
+    ]
+  },
+  "segment 22": {
+    "texte": "On devise de\n.choses et d'autres, on glose  tort et  travers,\n1.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.5787651538848877
+      },
+      {
+        "label": "2 stars",
+        "score": 0.28224658966064453
+      },
+      {
+        "label": "3 stars",
+        "score": 0.09085535258054733
+      },
+      {
+        "label": "5 stars",
+        "score": 0.024184150621294975
+      },
+      {
+        "label": "4 stars",
+        "score": 0.023948783054947853
+      }
+    ]
+  },
+  "segment 23": {
+    "texte": "Rester i la maison.\nI------------\nL --eer<----\nMON VILLAGE.\net les langues tournent, tournent pareillement\naux rouets des meilleures fileuses.\n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.3716391623020172
+      },
+      {
+        "label": "2 stars",
+        "score": 0.24564886093139648
+      },
+      {
+        "label": "5 stars",
+        "score": 0.16421757638454437
+      },
+      {
+        "label": "3 stars",
+        "score": 0.1356796771287918
+      },
+      {
+        "label": "4 stars",
+        "score": 0.08281469345092773
+      }
+    ]
+  },
+  "segment 24": {
+    "texte": "-L'hiver viendra sans oraisons, ditle pere\nRoux, berger, en faisant trotter ses aiguilles\nplus vite que ses moutons.\n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2915286421775818
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2162645161151886
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2069251537322998
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1766272932291031
+      },
+      {
+        "label": "1 star",
+        "score": 0.10865437984466553
+      }
+    ]
+  },
+  "segment 25": {
+    "texte": "- Taisez-vous, vieux huguenot, dit la pe-\ntiote h Perpetue, vous ne savez qu'oflenser le\nbon Dieu.\n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.631980299949646
+      },
+      {
+        "label": "2 stars",
+        "score": 0.19494803249835968
+      },
+      {
+        "label": "3 stars",
+        "score": 0.07617365568876266
+      },
+      {
+        "label": "5 stars",
+        "score": 0.054853711277246475
+      },
+      {
+        "label": "4 stars",
+        "score": 0.04204435274004936
+      }
+    ]
+  },
+  "segment 26": {
+    "texte": "- Qu'est-ce que tu chantes l des psau-\nmes Garde-les pour monsieur le'cure.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.4680597484111786
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1734350323677063
+      },
+      {
+        "label": "2 stars",
+        "score": 0.16061346232891083
+      },
+      {
+        "label": "4 stars",
+        "score": 0.10312385857105255
+      },
+      {
+        "label": "3 stars",
+        "score": 0.09476791322231293
+      }
+    ]
+  },
+  "segment 27": {
+    "texte": "Tiensl\nvoila Jean-Claude.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.23216363787651062
+      },
+      {
+        "label": "3 stars",
+        "score": 0.20441606640815735
+      },
+      {
+        "label": "2 stars",
+        "score": 0.19513128697872162
+      },
+      {
+        "label": "4 stars",
+        "score": 0.18559961020946503
+      },
+      {
+        "label": "5 stars",
+        "score": 0.18268939852714539
+      }
+    ]
+  },
+  "segment 28": {
+    "texte": "Bonsoir, Jcan-Claude.\n-Bonsoir, mon frere, dit Norine.\n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.29040324687957764
+      },
+      {
+        "label": "4 stars",
+        "score": 0.27807870507240295
+      },
+      {
+        "label": "3 stars",
+        "score": 0.20357435941696167
+      },
+      {
+        "label": "1 star",
+        "score": 0.11844922602176666
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10949447005987167
+      }
+    ]
+  }
+}
