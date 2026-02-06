@@ -4,7 +4,7 @@ Le 6 février 2026 :
 
 | Book (Author) | # Tokens | REF | Kraken4.3.13 |LectaurepKraken4.3.13 |Tesseract|Tesseract3.10|
 |--------------|---------:|-----:|-------------:|---------------------:|--------:|------------:|
-| *Mon village* (J. Adam) | 20 938  | - [x] |- [ ] À faire | |||
+| *Mon village* (J. Adam) | 20 938  | 🗸|🗸 | |||
 | *Marie-Claire* (M. Audoux) | 35 780  |   |   |
 | *Le château de Pinon, vol. I* (G. A. Dash) | 44 246  |   |   |
 | *La petite Jeanne* (Z. Carraud) | 53 212  |   |   |
