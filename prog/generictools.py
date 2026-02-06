@@ -4,6 +4,7 @@ import json
 from transformers import pipeline
 from pathlib import Path
 import os
+import time
 
 def lire_fichier (chemin):
     f = open(chemin , encoding = 'utf−8')
@@ -57,6 +58,7 @@ def traiter_dossier(base_path):
     Traite tous les sous-dossiers contenant des fichiers *court.txt* dans base_path
     """
     print("Base path:", base_path)
+    start = time.perf_counter()
     for folder in glob.glob(base_path):
         print(folder)
 
@@ -81,6 +83,10 @@ def traiter_dossier(base_path):
 
             print(segments)
             stocker(f"{folder}/SA/{outputname}", segments)
+            end = time.perf_counter()
+            print(f"Temps écoulé : {end - start:.3f} secondes")
+            d = {"Temps écoulé": f"{end - start:.3f}"}
+            stocker(f"{folder}/SA/{outputname}_time.json",d)
 
 
 
