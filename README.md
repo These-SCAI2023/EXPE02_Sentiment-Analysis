@@ -1,0 +1,1 @@
+Analyse de sentiments sur le corpus small_ELTeC-fra avec [Distilcamembert Base Sentiment](https://model.aibase.com/models/details/1915694195572105217?utm_source=chatgpt.com) et [french-sentiment-analysis-with-bert](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert?tab=readme-ov-file)
