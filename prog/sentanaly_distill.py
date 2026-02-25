@@ -1,6 +1,42 @@
 from generictools import *
 
-corpus = "../small-ELTeC-fra-2021-2024_REN/ADAM/"
+def traiter_dossier(base_path):
+    """
+    Traite tous les sous-dossiers contenant des fichiers *court.txt* dans base_path
+    """
+    print("Base path:", base_path)
+    start = time.perf_counter()
+    for folder in glob.glob(base_path):
+        print(folder)
+
+        SA_repo_creat(folder)
+        for txt_file in glob.glob(folder + "/*.txt"):
+            outputname = filename_output(txt_file)
+            sa_path = f"{folder}/SA/{outputname}"
+            # Vérifie si le fichier SA existe déjà
+            if os.path.exists(sa_path):
+                print(f"SA déjà calculé pour {txt_file}, passage au suivant.")
+                continue  # passe au fichier suivant
+
+            texte = lire_fichier(txt_file)
+            segments_txt = segmentation(texte)
+
+            segments = {}
+            for idx, seg in enumerate(segments_txt):
+                segments[f"segment {idx}"] = {
+                    "texte": seg,
+                    "analyse": analise_sent(seg)
+                }
+
+            print(segments)
+            stocker(f"{folder}/SA/{outputname}", segments)
+            end = time.perf_counter()
+            print(f"Temps écoulé : {end - start:.3f} secondes")
+            d = {"Temps écoulé": f"{end - start:.3f}"}
+            stocker(f"{folder}/SA/{outputname}_time.json",d)
+
+
+corpus = "../small-ELTeC-fra-2021-2024_REN/*/"
 
 # Traitement des dossiers REF
 traiter_dossier(corpus + "*REF")
@@ -8,49 +44,9 @@ traiter_dossier(corpus + "*REF")
 # Traitement des dossiers OCR
 traiter_dossier(corpus + "/*OCR/*")
 
-## A optimiser
-# for refpath in glob.glob(corpus + "/*REF"):
-#     SA_repo_creat(refpath)
-#     i = 0
-#     dic_seg_ref = {}
-#     for subpath in glob.glob(refpath + "/*court.txt"):
-#         outputname = filename_output(subpath)
-#         texte = lire_fichier(subpath)
-#     txt_seg = segmentation(texte)
-#     # print(txt_seg)
-#
-#     for seg in txt_seg:
-#         # print(seg)
-#         dic_seg_ref[f"segment {i}"] = {}
-#         dic_seg_ref[f"segment {i}"]["texte"] = seg
-#         # print(f"segment {i}",seg)
-#         resultat = analise_sent(seg)
-#         dic_seg_ref[f"segment {i}"]["analyse"] = resultat
-#         # print(resultat)
-#         i += 1
-#     print(dic_seg_ref)
-#     stocker(f"{refpath}/SA/{outputname}", dic_seg_ref)
-#
-# for ocrpath in glob.glob(corpus + "/*OCR/*"):
-#     SA_repo_creat(ocrpath)
-#     dic_seg_ocr = {}
-#     ii = 0
-#     for subpath in glob.glob(ocrpath + "/*court.txt"):
-#         outputname = filename_output(subpath)
-#         texte = lire_fichier(subpath)
-#     txt_seg = segmentation(texte)
-#     # print(txt_seg)
-#
-#     for seg in txt_seg:
-#         # print(seg)
-#         dic_seg_ocr[f"segment {ii}"] = {}
-#         dic_seg_ocr[f"segment {ii}"]["texte"] = seg
-#         resultat = analise_sent(seg)
-#         dic_seg_ocr[f"segment {ii}"]["analyse"] = resultat
-#         # print(resultat)
-#         ii += 1
-#     print(dic_seg_ocr)
-#     stocker(f"{ocrpath}/SA/{outputname}", dic_seg_ocr)
+# for path in glob.glob(corpus + "/*/*"):
+#     print(path)
+
 
 
 

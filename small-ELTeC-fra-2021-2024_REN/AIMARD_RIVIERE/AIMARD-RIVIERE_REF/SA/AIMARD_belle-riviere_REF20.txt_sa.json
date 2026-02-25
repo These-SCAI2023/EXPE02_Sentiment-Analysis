@@ -1,0 +1,1452 @@
+{
+  "segment 0": {
+    "texte": "Sept des siens gisaient couch\u00e9s autour de lui. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.26081976294517517
+      },
+      {
+        "label": "3 stars",
+        "score": 0.23960323631763458
+      },
+      {
+        "label": "1 star",
+        "score": 0.19795291125774384
+      },
+      {
+        "label": "4 stars",
+        "score": 0.17407672107219696
+      },
+      {
+        "label": "5 stars",
+        "score": 0.12754733860492706
+      }
+    ]
+  },
+  "segment 1": {
+    "texte": "Le reste se d\u00e9banda. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.4687158763408661
+      },
+      {
+        "label": "1 star",
+        "score": 0.34815534949302673
+      },
+      {
+        "label": "3 stars",
+        "score": 0.16146260499954224
+      },
+      {
+        "label": "4 stars",
+        "score": 0.015645507723093033
+      },
+      {
+        "label": "5 stars",
+        "score": 0.006020634435117245
+      }
+    ]
+  },
+  "segment 2": {
+    "texte": "Les Anglais pouss\u00e8rent un formidable hourra. \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.5522149205207825
+      },
+      {
+        "label": "4 stars",
+        "score": 0.26992788910865784
+      },
+      {
+        "label": "3 stars",
+        "score": 0.08835367113351822
+      },
+      {
+        "label": "1 star",
+        "score": 0.05722478777170181
+      },
+      {
+        "label": "2 stars",
+        "score": 0.032278724014759064
+      }
+    ]
+  },
+  "segment 3": {
+    "texte": "Et gris\u00e9s par la vue du sang qu'ils venaient de verser, ils crois\u00e8rent la ba\u00efonnette et s'\u00e9lanc\u00e8rent au pas de charge sur les malheureux compagnons du comte de Jumonville. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2718295156955719
+      },
+      {
+        "label": "4 stars",
+        "score": 0.22397975623607635
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2021321952342987
+      },
+      {
+        "label": "5 stars",
+        "score": 0.16059590876102448
+      },
+      {
+        "label": "1 star",
+        "score": 0.14146262407302856
+      }
+    ]
+  },
+  "segment 4": {
+    "texte": "Un massacre horrible allait avoir lieu. \nMais alors il se passa un fait \u00e9trange, unique dans l'histoire de ces guerres sans piti\u00e9 comme sans merci. \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.44029343128204346
+      },
+      {
+        "label": "4 stars",
+        "score": 0.33742979168891907
+      },
+      {
+        "label": "3 stars",
+        "score": 0.12295414507389069
+      },
+      {
+        "label": "2 stars",
+        "score": 0.06334982812404633
+      },
+      {
+        "label": "1 star",
+        "score": 0.03597285598516464
+      }
+    ]
+  },
+  "segment 5": {
+    "texte": "Les Indiens auxiliaires des Anglais, indign\u00e9s de leur conduite d\u00e9loyale, se jetant r\u00e9solument entre les bourreaux et les victimes, leur barr\u00e8rent le passage. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2875310778617859
+      },
+      {
+        "label": "4 stars",
+        "score": 0.24696855247020721
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1925942301750183
+      },
+      {
+        "label": "1 star",
+        "score": 0.14144515991210938
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1314609795808792
+      }
+    ]
+  },
+  "segment 6": {
+    "texte": "Le major Washington lui-m\u00eame s'interposa. \nAvait-il atteint son but en r\u00e9duisant pour toujours au silence le porteur des ordres du comte de Contrec\u0153ur, commandant du fort Duquesne\u00a0? \nOu ressentait-il d\u00e9j\u00e0 le remords de son acte inqualifiable\u00a0? \nToujours est-il qu'il d\u00e9sarma les siens et que les survivants de la troupe fran\u00e7aise furent sauv\u00e9s. \n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.2758071720600128
+      },
+      {
+        "label": "2 stars",
+        "score": 0.24385590851306915
+      },
+      {
+        "label": "3 stars",
+        "score": 0.21745887398719788
+      },
+      {
+        "label": "4 stars",
+        "score": 0.15480098128318787
+      },
+      {
+        "label": "5 stars",
+        "score": 0.10807710140943527
+      }
+    ]
+  },
+  "segment 7": {
+    "texte": "Il va sans dire qu'on les retint prisonniers de guerre. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.3676099479198456
+      },
+      {
+        "label": "1 star",
+        "score": 0.25987643003463745
+      },
+      {
+        "label": "3 stars",
+        "score": 0.2557070553302765
+      },
+      {
+        "label": "4 stars",
+        "score": 0.07796002179384232
+      },
+      {
+        "label": "5 stars",
+        "score": 0.038846541196107864
+      }
+    ]
+  },
+  "segment 8": {
+    "texte": "Nous n'appuierons pas davantage sur cet \u00e9pouvantable attentat. \n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.23836088180541992
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2145526260137558
+      },
+      {
+        "label": "2 stars",
+        "score": 0.20078830420970917
+      },
+      {
+        "label": "3 stars",
+        "score": 0.19875775277614594
+      },
+      {
+        "label": "5 stars",
+        "score": 0.14754042029380798
+      }
+    ]
+  },
+  "segment 9": {
+    "texte": "On n'invente pas de pareils faits lorsqu'il s'agit d'une grande figure historique comme celle de Washington. \nSeulement, nous sommes oblig\u00e9 d'affirmer \u00e0 nos lecteurs que ce r\u00e9cit est vrai de point en point. (1) \nDeux hommes avaient profit\u00e9 du tumulte et du d\u00e9sordre jet\u00e9 par l'intervention des Indiens pour tirer au large et s'\u00e9chapper. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.3487357199192047
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2647930383682251
+      },
+      {
+        "label": "3 stars",
+        "score": 0.2342752367258072
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10960619896650314
+      },
+      {
+        "label": "1 star",
+        "score": 0.04258985072374344
+      }
+    ]
+  },
+  "segment 10": {
+    "texte": "Ces deux hommes \u00e9taient\u00a0: Berger, le chasseur canadien, et Kouha-Hand\u00e9, le chef huron. \nLorsque les Anglais se furent retir\u00e9s, emmenant leurs prisonniers et ne daignant m\u00eame pas donner la s\u00e9pulture aux victimes de leur f\u00e9lonie, les deux amis sortirent avec pr\u00e9caution des fourr\u00e9s dans lesquels jusque-l\u00e0 ils s'\u00e9taient r\u00e9fugi\u00e9s et tenus aux aguets. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.30976760387420654
+      },
+      {
+        "label": "2 stars",
+        "score": 0.23722593486309052
+      },
+      {
+        "label": "4 stars",
+        "score": 0.22256511449813843
+      },
+      {
+        "label": "5 stars",
+        "score": 0.13046826422214508
+      },
+      {
+        "label": "1 star",
+        "score": 0.09997313469648361
+      }
+    ]
+  },
+  "segment 11": {
+    "texte": "Leur premier soin fut de s'assurer que les assassins du comte de Jumonville avaient effectivement quitt\u00e9 la place. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.27168306708335876
+      },
+      {
+        "label": "3 stars",
+        "score": 0.26856398582458496
+      },
+      {
+        "label": "2 stars",
+        "score": 0.18640653789043427
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1639554351568222
+      },
+      {
+        "label": "1 star",
+        "score": 0.10939096659421921
+      }
+    ]
+  },
+  "segment 12": {
+    "texte": "Cela fait, Berger alla pieusement s'agenouiller aupr\u00e8s du corps du jeune officier, et il pria. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2563535273075104
+      },
+      {
+        "label": "4 stars",
+        "score": 0.23936918377876282
+      },
+      {
+        "label": "5 stars",
+        "score": 0.21718502044677734
+      },
+      {
+        "label": "2 stars",
+        "score": 0.15774297714233398
+      },
+      {
+        "label": "1 star",
+        "score": 0.12934932112693787
+      }
+    ]
+  },
+  "segment 13": {
+    "texte": "La pri\u00e8re du chasseur en valait bien une autre. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2631967067718506
+      },
+      {
+        "label": "4 stars",
+        "score": 0.20450113713741302
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1852533370256424
+      },
+      {
+        "label": "5 stars",
+        "score": 0.17429067194461823
+      },
+      {
+        "label": "1 star",
+        "score": 0.17275813221931458
+      }
+    ]
+  },
+  "segment 14": {
+    "texte": "Laissant le Canadien s'abandonner \u00e0 sa douleur, respectant le dernier t\u00e9moignage d'amiti\u00e9 qu'il donnait au capitaine fran\u00e7ais, Kouha",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.37780871987342834
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2582886815071106
+      },
+      {
+        "label": "3 stars",
+        "score": 0.23113131523132324
+      },
+      {
+        "label": "2 stars",
+        "score": 0.08898568153381348
+      },
+      {
+        "label": "1 star",
+        "score": 0.043785665184259415
+      }
+    ]
+  },
+  "segment 15": {
+    "texte": "-Hand\u00e9 s'arma d'un de ces larges couteaux nomm\u00e9s bowie-knives, pendu \u00e0 sa ceinture, et se mit \u00e0 creuser activement la terre, encore humide de sang. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.24557605385780334
+      },
+      {
+        "label": "5 stars",
+        "score": 0.23085945844650269
+      },
+      {
+        "label": "3 stars",
+        "score": 0.21886032819747925
+      },
+      {
+        "label": "2 stars",
+        "score": 0.17341384291648865
+      },
+      {
+        "label": "1 star",
+        "score": 0.1312902867794037
+      }
+    ]
+  },
+  "segment 16": {
+    "texte": "C'\u00e9tait par amiti\u00e9 pour le chasseur que le chef se livrait \u00e0 cette rude besogne\u00a0;",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.37213370203971863
+      },
+      {
+        "label": "4 stars",
+        "score": 0.22201992571353912
+      },
+      {
+        "label": "2 stars",
+        "score": 0.21715475618839264
+      },
+      {
+        "label": "1 star",
+        "score": 0.10666026920080185
+      },
+      {
+        "label": "5 stars",
+        "score": 0.08203136920928955
+      }
+    ]
+  },
+  "segment 17": {
+    "texte": "de M. de Jumonville, il ne se souciait pas plus qu'un Peau",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.3629334568977356
+      },
+      {
+        "label": "3 stars",
+        "score": 0.2633097171783447
+      },
+      {
+        "label": "1 star",
+        "score": 0.21818886697292328
+      },
+      {
+        "label": "4 stars",
+        "score": 0.10236255079507828
+      },
+      {
+        "label": "5 stars",
+        "score": 0.05320533365011215
+      }
+    ]
+  },
+  "segment 18": {
+    "texte": "-Rouge ne se soucie d'un blanc. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.38647112250328064
+      },
+      {
+        "label": "3 stars",
+        "score": 0.30617913603782654
+      },
+      {
+        "label": "1 star",
+        "score": 0.1771281659603119
+      },
+      {
+        "label": "4 stars",
+        "score": 0.09108351916074753
+      },
+      {
+        "label": "5 stars",
+        "score": 0.03913801908493042
+      }
+    ]
+  },
+  "segment 19": {
+    "texte": "Le Canadien se releva, et, contemplant les restes de l'officier fran\u00e7ais\u00a0: \n\u2014 Pauvre enfant\u00a0!",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.26401376724243164
+      },
+      {
+        "label": "2 stars",
+        "score": 0.24968081712722778
+      },
+      {
+        "label": "3 stars",
+        "score": 0.23902958631515503
+      },
+      {
+        "label": "4 stars",
+        "score": 0.13687221705913544
+      },
+      {
+        "label": "5 stars",
+        "score": 0.11040361225605011
+      }
+    ]
+  },
+  "segment 20": {
+    "texte": "murmurait-il, tandis que de grosses larmes coulaient le long de ses joues brunies\u00a0: si jeune\u00a0!",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.3444974720478058
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2249300628900528
+      },
+      {
+        "label": "3 stars",
+        "score": 0.15713907778263092
+      },
+      {
+        "label": "2 stars",
+        "score": 0.15361493825912476
+      },
+      {
+        "label": "1 star",
+        "score": 0.11981846392154694
+      }
+    ]
+  },
+  "segment 21": {
+    "texte": "si beau\u00a0!",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.7064009308815002
+      },
+      {
+        "label": "4 stars",
+        "score": 0.22404100000858307
+      },
+      {
+        "label": "3 stars",
+        "score": 0.0461273156106472
+      },
+      {
+        "label": "2 stars",
+        "score": 0.012831096537411213
+      },
+      {
+        "label": "1 star",
+        "score": 0.010599636472761631
+      }
+    ]
+  },
+  "segment 22": {
+    "texte": "si brave\u00a0!",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.5898132920265198
+      },
+      {
+        "label": "4 stars",
+        "score": 0.28587308526039124
+      },
+      {
+        "label": "3 stars",
+        "score": 0.07568886876106262
+      },
+      {
+        "label": "2 stars",
+        "score": 0.025512369349598885
+      },
+      {
+        "label": "1 star",
+        "score": 0.023112358525395393
+      }
+    ]
+  },
+  "segment 23": {
+    "texte": "finir ainsi\u00a0!",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.3330116868019104
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2404954880475998
+      },
+      {
+        "label": "3 stars",
+        "score": 0.18563233315944672
+      },
+      {
+        "label": "5 stars",
+        "score": 0.13504165410995483
+      },
+      {
+        "label": "4 stars",
+        "score": 0.10581891983747482
+      }
+    ]
+  },
+  "segment 24": {
+    "texte": "au coin d'un bois, au m\u00e9pris de toutes les lois divines et humaines.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.3117043375968933
+      },
+      {
+        "label": "5 stars",
+        "score": 0.20739491283893585
+      },
+      {
+        "label": "2 stars",
+        "score": 0.19355016946792603
+      },
+      {
+        "label": "3 stars",
+        "score": 0.14763006567955017
+      },
+      {
+        "label": "4 stars",
+        "score": 0.13972055912017822
+      }
+    ]
+  },
+  "segment 25": {
+    "texte": "C'est affreux.",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.7559739947319031
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1449708640575409
+      },
+      {
+        "label": "3 stars",
+        "score": 0.042030882090330124
+      },
+      {
+        "label": "5 stars",
+        "score": 0.03532935678958893
+      },
+      {
+        "label": "4 stars",
+        "score": 0.021694883704185486
+      }
+    ]
+  },
+  "segment 26": {
+    "texte": "Pauvre enfant\u00a0!",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.5188831686973572
+      },
+      {
+        "label": "2 stars",
+        "score": 0.23858822882175446
+      },
+      {
+        "label": "3 stars",
+        "score": 0.10040527582168579
+      },
+      {
+        "label": "5 stars",
+        "score": 0.08162380754947662
+      },
+      {
+        "label": "4 stars",
+        "score": 0.06049950420856476
+      }
+    ]
+  },
+  "segment 27": {
+    "texte": "... \nIl souleva doucement la t\u00eate du capitaine, lui coupa une boucle de cheveux, enleva un double m\u00e9daillon suspendu \u00e0 son cou par une fine cha\u00eene d'acier, prit ses papiers, et, le baisant au front, il reposa son corps \u00e0 terre. \n\u2014",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.29796138405799866
+      },
+      {
+        "label": "4 stars",
+        "score": 0.24109645187854767
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1847791075706482
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1617082953453064
+      },
+      {
+        "label": "1 star",
+        "score": 0.11445482075214386
+      }
+    ]
+  },
+  "segment 28": {
+    "texte": "Que dirai-je \u00e0 son fr\u00e8re\u00a0?",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2751680016517639
+      },
+      {
+        "label": "3 stars",
+        "score": 0.231376513838768
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2309354841709137
+      },
+      {
+        "label": "2 stars",
+        "score": 0.15230058133602142
+      },
+      {
+        "label": "1 star",
+        "score": 0.11021941900253296
+      }
+    ]
+  },
+  "segment 29": {
+    "texte": "pensait-il, tout en s'occupant de ces derniers soins.",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2735408544540405
+      },
+      {
+        "label": "3 stars",
+        "score": 0.24891673028469086
+      },
+      {
+        "label": "5 stars",
+        "score": 0.20974282920360565
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1675718128681183
+      },
+      {
+        "label": "1 star",
+        "score": 0.10022779554128647
+      }
+    ]
+  },
+  "segment 30": {
+    "texte": "Comment lui annoncer cette affreuse nouvelle\u00a0!",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.628294825553894
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1472456157207489
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10546548664569855
+      },
+      {
+        "label": "4 stars",
+        "score": 0.07069771736860275
+      },
+      {
+        "label": "3 stars",
+        "score": 0.04829631745815277
+      }
+    ]
+  },
+  "segment 31": {
+    "texte": "En aurai-je la force seulement\u00a0? \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.23704840242862701
+      },
+      {
+        "label": "2 stars",
+        "score": 0.20992471277713776
+      },
+      {
+        "label": "4 stars",
+        "score": 0.19886018335819244
+      },
+      {
+        "label": "1 star",
+        "score": 0.1823285073041916
+      },
+      {
+        "label": "5 stars",
+        "score": 0.17183825373649597
+      }
+    ]
+  },
+  "segment 32": {
+    "texte": "Il demeura un instant absorb\u00e9 par le flot de pens\u00e9es qui br\u00fblaient son cerveau. \nCependant la besogne du chef \u00e9tait termin\u00e9e. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.30442801117897034
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2729153335094452
+      },
+      {
+        "label": "4 stars",
+        "score": 0.17674577236175537
+      },
+      {
+        "label": "1 star",
+        "score": 0.13227567076683044
+      },
+      {
+        "label": "5 stars",
+        "score": 0.11363521963357925
+      }
+    ]
+  },
+  "segment 33": {
+    "texte": "Kouha-Hand\u00e9 vint tirer le chasseur de son am\u00e8re r\u00eaverie. \n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.30089038610458374
+      },
+      {
+        "label": "2 stars",
+        "score": 0.26041269302368164
+      },
+      {
+        "label": "3 stars",
+        "score": 0.20520883798599243
+      },
+      {
+        "label": "4 stars",
+        "score": 0.129618838429451
+      },
+      {
+        "label": "5 stars",
+        "score": 0.10386927425861359
+      }
+    ]
+  },
+  "segment 34": {
+    "texte": "\u2014 Vous avez fini, chef\u00a0? \n\u2014",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.3935357332229614
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2389484941959381
+      },
+      {
+        "label": "3 stars",
+        "score": 0.16195613145828247
+      },
+      {
+        "label": "5 stars",
+        "score": 0.11816707998514175
+      },
+      {
+        "label": "4 stars",
+        "score": 0.08739255368709564
+      }
+    ]
+  },
+  "segment 35": {
+    "texte": "Oui. \n\u2014",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2823322117328644
+      },
+      {
+        "label": "3 stars",
+        "score": 0.2640918493270874
+      },
+      {
+        "label": "5 stars",
+        "score": 0.24554874002933502
+      },
+      {
+        "label": "2 stars",
+        "score": 0.14600896835327148
+      },
+      {
+        "label": "1 star",
+        "score": 0.06201819330453873
+      }
+    ]
+  },
+  "segment 36": {
+    "texte": "Allons, mettons les malheureux dans leur derni\u00e8re demeure.",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.2776348888874054
+      },
+      {
+        "label": "1 star",
+        "score": 0.2553359568119049
+      },
+      {
+        "label": "4 stars",
+        "score": 0.18457138538360596
+      },
+      {
+        "label": "2 stars",
+        "score": 0.14179308712482452
+      },
+      {
+        "label": "3 stars",
+        "score": 0.14066465198993683
+      }
+    ]
+  },
+  "segment 37": {
+    "texte": "Ici, du moins, ils ne craindront plus les trahisons des hommes, ici ils jouiront d'un \u00e9ternel repos\u00a0! \nAlors, enveloppant respectueusement le comte de Jumonville dans les plis du drapeau qui l'avait si peu prot\u00e9g\u00e9, Berger le d\u00e9posa aupr\u00e8s des autres cadavres, dans la fosse creus\u00e9e par le chef indien. \nGlorieux linceul pour le jeune homme\u00a0! \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.48451781272888184
+      },
+      {
+        "label": "4 stars",
+        "score": 0.3407136797904968
+      },
+      {
+        "label": "3 stars",
+        "score": 0.10342824459075928
+      },
+      {
+        "label": "2 stars",
+        "score": 0.042085036635398865
+      },
+      {
+        "label": "1 star",
+        "score": 0.029255317524075508
+      }
+    ]
+  },
+  "segment 38": {
+    "texte": "Les Anglais n'avaient pas song\u00e9 \u00e0 le lui arracher des mains. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.22120290994644165
+      },
+      {
+        "label": "4 stars",
+        "score": 0.20622055232524872
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1976211667060852
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1890087127685547
+      },
+      {
+        "label": "1 star",
+        "score": 0.18594667315483093
+      }
+    ]
+  },
+  "segment 39": {
+    "texte": "Peut-\u00eatre m\u00eame, honteux de leur l\u00e2chet\u00e9, avaient-ils recul\u00e9 devant cette derni\u00e8re profanation. \n",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.4472600519657135
+      },
+      {
+        "label": "5 stars",
+        "score": 0.19285999238491058
+      },
+      {
+        "label": "2 stars",
+        "score": 0.14214760065078735
+      },
+      {
+        "label": "4 stars",
+        "score": 0.11920848488807678
+      },
+      {
+        "label": "3 stars",
+        "score": 0.09852389246225357
+      }
+    ]
+  },
+  "segment 40": {
+    "texte": "Les deux hommes rejet\u00e8rent la terre sur les cadavres, puis ils amoncel\u00e8rent de lourdes pierres sur la tombe. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.2756582796573639
+      },
+      {
+        "label": "1 star",
+        "score": 0.24592331051826477
+      },
+      {
+        "label": "3 stars",
+        "score": 0.24306480586528778
+      },
+      {
+        "label": "4 stars",
+        "score": 0.1368858367204666
+      },
+      {
+        "label": "5 stars",
+        "score": 0.09846781939268112
+      }
+    ]
+  },
+  "segment 41": {
+    "texte": "De la sorte ils \u00e9taient certains que les b\u00eates fauves ne viendraient pas profaner le dernier asile o\u00f9 reposaient ces hommes assassin\u00e9s par d'autres hommes, leurs fr\u00e8res, mais plus f\u00e9roces qu'elles. \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.33116811513900757
+      },
+      {
+        "label": "4 stars",
+        "score": 0.31211555004119873
+      },
+      {
+        "label": "3 stars",
+        "score": 0.20566700398921967
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10481899231672287
+      },
+      {
+        "label": "1 star",
+        "score": 0.04623036831617355
+      }
+    ]
+  },
+  "segment 42": {
+    "texte": "Ce devoir accompli, le chasseur canadien se releva le front p\u00e2le, les sourcils fronc\u00e9s et, le bras \u00e9tendu sur la fosse fra\u00eechement ferm\u00e9e, il s'\u00e9cria\u00a0: \n\u2014 Dormez en paix, nobles victimes, vous serez veng\u00e9es\u00a0! \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.21639758348464966
+      },
+      {
+        "label": "5 stars",
+        "score": 0.20702144503593445
+      },
+      {
+        "label": "1 star",
+        "score": 0.20636990666389465
+      },
+      {
+        "label": "4 stars",
+        "score": 0.18827621638774872
+      },
+      {
+        "label": "2 stars",
+        "score": 0.18193484842777252
+      }
+    ]
+  },
+  "segment 43": {
+    "texte": "Le chef inclina silencieusement la t\u00eate en signe d'approbation et les deux hommes s'\u00e9loign\u00e8rent d'un pas rapide \u00e0 travers les sentes ignor\u00e9es de la for\u00eat. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.27485430240631104
+      },
+      {
+        "label": "4 stars",
+        "score": 0.21351751685142517
+      },
+      {
+        "label": "2 stars",
+        "score": 0.19970083236694336
+      },
+      {
+        "label": "5 stars",
+        "score": 0.196726992726326
+      },
+      {
+        "label": "1 star",
+        "score": 0.11520041525363922
+      }
+    ]
+  },
+  "segment 44": {
+    "texte": "Un silence fun\u00e8bre plana alors sur cette place redevenue solitaire et d\u00e9sormais maudite. \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.3040667474269867
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2297082096338272
+      },
+      {
+        "label": "3 stars",
+        "score": 0.197261780500412
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1526281237602234
+      },
+      {
+        "label": "1 star",
+        "score": 0.1163351759314537
+      }
+    ]
+  },
+  "segment 45": {
+    "texte": "IV",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.28156599402427673
+      },
+      {
+        "label": "3 stars",
+        "score": 0.25929778814315796
+      },
+      {
+        "label": "2 stars",
+        "score": 0.18113769590854645
+      },
+      {
+        "label": "5 stars",
+        "score": 0.17365677654743195
+      },
+      {
+        "label": "1 star",
+        "score": 0.10434181988239288
+      }
+    ]
+  },
+  "segment 46": {
+    "texte": "-- Un paysage de la Belle Rivi\u00e8re \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.3216882348060608
+      },
+      {
+        "label": "4 stars",
+        "score": 0.23006321489810944
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1993016004562378
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1595659852027893
+      },
+      {
+        "label": "1 star",
+        "score": 0.08938100188970566
+      }
+    ]
+  },
+  "segment 47": {
+    "texte": "Les premiers Fran\u00e7ais qui explor\u00e8rent l'Am\u00e9rique septentrionale furent s\u00e9duits par les rives de l'Ohio. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2993011772632599
+      },
+      {
+        "label": "3 stars",
+        "score": 0.2622763514518738
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2544098198413849
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1261129230260849
+      },
+      {
+        "label": "1 star",
+        "score": 0.057899754494428635
+      }
+    ]
+  },
+  "segment 48": {
+    "texte": "Ce cours d'eau, qui tra\u00eene ses capricieux m\u00e9andres \u00e0 travers le pays le plus accident\u00e9 et les sites les plus pittoresques, re\u00e7ut d'eux le nom de Belle Rivi\u00e8re, nom qu'il conserva jusqu'\u00e0 l'abandon du Canada par la France. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.3736770451068878
+      },
+      {
+        "label": "5 stars",
+        "score": 0.3046795129776001
+      },
+      {
+        "label": "3 stars",
+        "score": 0.22071930766105652
+      },
+      {
+        "label": "2 stars",
+        "score": 0.07682178914546967
+      },
+      {
+        "label": "1 star",
+        "score": 0.024102358147501945
+      }
+    ]
+  },
+  "segment 49": {
+    "texte": "Form\u00e9 par la r\u00e9union de Manongohela et de l'Alleghany apr\u00e8s un parcours de plusieurs centaines de milles, pendant lequel il re\u00e7oit un nombre infini de ruisseaux et de rivi\u00e8res, l'Ohio se jette dans le Mississipi, ce grandiose Meschac\u00e9b\u00e9, que les Indiens appellent le p\u00e8re des fleuves. \n",
+    "analyse": [
+      {
+        "label": "5 stars",
+        "score": 0.42119401693344116
+      },
+      {
+        "label": "4 stars",
+        "score": 0.35222378373146057
+      },
+      {
+        "label": "3 stars",
+        "score": 0.14772973954677582
+      },
+      {
+        "label": "2 stars",
+        "score": 0.057858385145664215
+      },
+      {
+        "label": "1 star",
+        "score": 0.020994076505303383
+      }
+    ]
+  },
+  "segment 50": {
+    "texte": "La quantit\u00e9 innombrable d'\u00eeles et d'\u00eelots dont son cours est sem\u00e9, la rapidit\u00e9 de son courant, qui contraint les embarcations \u00e0 s'abandonner au fil de l'eau, rendent sa navigation des plus dangereuses. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.38563090562820435
+      },
+      {
+        "label": "2 stars",
+        "score": 0.38478580117225647
+      },
+      {
+        "label": "1 star",
+        "score": 0.1024310439825058
+      },
+      {
+        "label": "4 stars",
+        "score": 0.10001101344823837
+      },
+      {
+        "label": "5 stars",
+        "score": 0.027141211554408073
+      }
+    ]
+  },
+  "segment 51": {
+    "texte": "Ses rives assez hautes forment une cha\u00eene continue de collines reli\u00e9es entre elles par des terrains plats et bois\u00e9s qui fourmillent de gibier. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.3618534505367279
+      },
+      {
+        "label": "3 stars",
+        "score": 0.3148685395717621
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2006022185087204
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10188814997673035
+      },
+      {
+        "label": "1 star",
+        "score": 0.020787591114640236
+      }
+    ]
+  },
+  "segment 52": {
+    "texte": "Particularit\u00e9 singuli\u00e8re, dans un pays qui a centupl\u00e9 de vie et d'animation, les contr\u00e9es travers\u00e9es par cette rivi\u00e8re ne sont pas beaucoup plus peupl\u00e9es aujourd'hui qu'elles ne l'\u00e9taient \u00e0 l'\u00e9poque recul\u00e9e dont nous parlons. \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.45844602584838867
+      },
+      {
+        "label": "5 stars",
+        "score": 0.3033619225025177
+      },
+      {
+        "label": "3 stars",
+        "score": 0.19828808307647705
+      },
+      {
+        "label": "2 stars",
+        "score": 0.03392358124256134
+      },
+      {
+        "label": "1 star",
+        "score": 0.005980331916362047
+      }
+    ]
+  },
+  "segment 53": {
+    "texte": "Il ne s'y installait gu\u00e8re alors que des tribus nomades. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.33532485365867615
+      },
+      {
+        "label": "2 stars",
+        "score": 0.23621612787246704
+      },
+      {
+        "label": "4 stars",
+        "score": 0.19338299334049225
+      },
+      {
+        "label": "5 stars",
+        "score": 0.13546228408813477
+      },
+      {
+        "label": "1 star",
+        "score": 0.09961368143558502
+      }
+    ]
+  },
+  "segment 54": {
+    "texte": "De temps \u00e0 autre, on y rencontrait des Indiens chasseurs ou des coureurs des bois.",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.300298810005188
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2522832453250885
+      },
+      {
+        "label": "2 stars",
+        "score": 0.19153784215450287
+      },
+      {
+        "label": "5 stars",
+        "score": 0.16183879971504211
+      },
+      {
+        "label": "1 star",
+        "score": 0.09404130280017853
+      }
+    ]
+  },
+  "segment 55": {
+    "texte": "\n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2884851098060608
+      },
+      {
+        "label": "5 stars",
+        "score": 0.26508739590644836
+      },
+      {
+        "label": "3 stars",
+        "score": 0.22232188284397125
+      },
+      {
+        "label": "2 stars",
+        "score": 0.14108611643314362
+      },
+      {
+        "label": "1 star",
+        "score": 0.08301952481269836
+      }
+    ]
+  },
+  "segment 56": {
+    "texte": "C'\u00e9tait tout. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.3591131269931793
+      },
+      {
+        "label": "1 star",
+        "score": 0.3274654746055603
+      },
+      {
+        "label": "3 stars",
+        "score": 0.17260724306106567
+      },
+      {
+        "label": "5 stars",
+        "score": 0.0739084780216217
+      },
+      {
+        "label": "4 stars",
+        "score": 0.06690570712089539
+      }
+    ]
+  },
+  "segment 57": {
+    "texte": "Nous ne savons \u00e0 quoi attribuer l'abandon d'une r\u00e9gion aussi fertile, couverte de for\u00eats renfermant les essences les plus pr\u00e9cieuses. \nTout colon qui s'y fixerait y trouverait sans grand travail des avantages commerciaux et industriels certains. \n\u00c0 coup s\u00fbr, la vie n'y serait pas difficile. \nEnviron \u00e0 dix milles du fort Duquesne, blottie au milieu d'une \u00e9paisse for\u00eat, s'\u00e9levait une modeste maisonnette construite selon la coutume des d\u00e9frichements, en madriers \u00e0 peine \u00e9quarris pos\u00e9s les uns sur les autres, et reli\u00e9s entre eux par de la mousse. \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.29585587978363037
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2831870913505554
+      },
+      {
+        "label": "5 stars",
+        "score": 0.22872841358184814
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1539239138364792
+      },
+      {
+        "label": "1 star",
+        "score": 0.03830472752451897
+      }
+    ]
+  }
+}
