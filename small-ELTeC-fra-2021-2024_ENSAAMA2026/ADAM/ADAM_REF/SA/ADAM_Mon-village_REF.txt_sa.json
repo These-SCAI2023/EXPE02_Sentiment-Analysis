@@ -1,0 +1,102 @@
+{
+  "segment 0": {
+    "texte": " \n",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.2884851098060608
+      },
+      {
+        "label": "5 stars",
+        "score": 0.26508739590644836
+      },
+      {
+        "label": "3 stars",
+        "score": 0.22232188284397125
+      },
+      {
+        "label": "2 stars",
+        "score": 0.14108611643314362
+      },
+      {
+        "label": "1 star",
+        "score": 0.08301952481269836
+      }
+    ]
+  },
+  "segment 1": {
+    "texte": "I \n",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.2961990535259247
+      },
+      {
+        "label": "4 stars",
+        "score": 0.2301788628101349
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1908375322818756
+      },
+      {
+        "label": "5 stars",
+        "score": 0.16552944481372833
+      },
+      {
+        "label": "1 star",
+        "score": 0.11725510656833649
+      }
+    ]
+  },
+  "segment 2": {
+    "texte": "UNE VEILL\u00c9E",
+    "analyse": [
+      {
+        "label": "1 star",
+        "score": 0.6175345778465271
+      },
+      {
+        "label": "2 stars",
+        "score": 0.2931992709636688
+      },
+      {
+        "label": "3 stars",
+        "score": 0.07154816389083862
+      },
+      {
+        "label": "4 stars",
+        "score": 0.011731945909559727
+      },
+      {
+        "label": "5 stars",
+        "score": 0.005986006930470467
+      }
+    ]
+  },
+  "segment 3": {
+    "texte": ". \nDepuis un nombre innombrable d'hivers, c'est dans la maison de Norine Duclos qu'o",
+    "analyse": [
+      {
+        "label": "4 stars",
+        "score": 0.326155424118042
+      },
+      {
+        "label": "5 stars",
+        "score": 0.2958539128303528
+      },
+      {
+        "label": "3 stars",
+        "score": 0.23279745876789093
+      },
+      {
+        "label": "2 stars",
+        "score": 0.10587213188409805
+      },
+      {
+        "label": "1 star",
+        "score": 0.03932112827897072
+      }
+    ]
+  }
+}

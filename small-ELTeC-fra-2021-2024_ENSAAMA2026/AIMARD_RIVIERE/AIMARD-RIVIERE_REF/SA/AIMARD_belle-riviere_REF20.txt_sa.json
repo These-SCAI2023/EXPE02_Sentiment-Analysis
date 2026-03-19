@@ -1,0 +1,77 @@
+{
+  "segment 0": {
+    "texte": "Sept des siens gisaient couch\u00e9s autour de lui. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.26081976294517517
+      },
+      {
+        "label": "3 stars",
+        "score": 0.23960323631763458
+      },
+      {
+        "label": "1 star",
+        "score": 0.19795291125774384
+      },
+      {
+        "label": "4 stars",
+        "score": 0.17407672107219696
+      },
+      {
+        "label": "5 stars",
+        "score": 0.12754733860492706
+      }
+    ]
+  },
+  "segment 1": {
+    "texte": "Le reste se d\u00e9banda. \n",
+    "analyse": [
+      {
+        "label": "2 stars",
+        "score": 0.4687158763408661
+      },
+      {
+        "label": "1 star",
+        "score": 0.34815534949302673
+      },
+      {
+        "label": "3 stars",
+        "score": 0.16146260499954224
+      },
+      {
+        "label": "4 stars",
+        "score": 0.015645507723093033
+      },
+      {
+        "label": "5 stars",
+        "score": 0.006020634435117245
+      }
+    ]
+  },
+  "segment 2": {
+    "texte": "Les Anglais pouss\u00e8rent un form",
+    "analyse": [
+      {
+        "label": "3 stars",
+        "score": 0.23916685581207275
+      },
+      {
+        "label": "1 star",
+        "score": 0.23579156398773193
+      },
+      {
+        "label": "2 stars",
+        "score": 0.1947985589504242
+      },
+      {
+        "label": "4 stars",
+        "score": 0.1909542828798294
+      },
+      {
+        "label": "5 stars",
+        "score": 0.1392887383699417
+      }
+    ]
+  }
+}
